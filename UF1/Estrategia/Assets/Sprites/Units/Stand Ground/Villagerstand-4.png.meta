@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 2bdb7c928d452334289373df2c8a8f42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3490870704458906796
+    second: Villagerstand-4_0
+  - first:
+      213: -2683638253780382234
+    second: Villagerstand-4_1
+  - first:
+      213: -1761443813986176229
+    second: Villagerstand-4_2
+  - first:
+      213: 2165569664115214213
+    second: Villagerstand-4_3
+  - first:
+      213: 2262468102601802069
+    second: Villagerstand-4_4
+  - first:
+      213: -4414981026748964571
+    second: Villagerstand-4_5
+  - first:
+      213: -5095187152431882255
+    second: Villagerstand-4_6
+  - first:
+      213: -5670936112949272023
+    second: Villagerstand-4_7
+  - first:
+      213: 1597225881650519275
+    second: Villagerstand-4_8
+  - first:
+      213: -8473530125339788031
+    second: Villagerstand-4_9
+  - first:
+      213: 7201627999940807755
+    second: Villagerstand-4_10
+  - first:
+      213: -2168910834116605377
+    second: Villagerstand-4_11
+  - first:
+      213: -2114644394314537308
+    second: Villagerstand-4_12
+  - first:
+      213: 9007096146822068064
+    second: Villagerstand-4_13
+  - first:
+      213: 851300374773535634
+    second: Villagerstand-4_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villagerstand-4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac37180960127030800000000000000
+      internalID: 3490870704458906796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 92
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed45c90a3dc1cad0800000000000000
+      internalID: -2683638253780382234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 92
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137b870f281e87e0800000000000000
+      internalID: -1761443813986176229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 92
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58703f5c226ad0e10800000000000000
+      internalID: 2165569664115214213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518b3390c6e56f10800000000000000
+      internalID: 2262468102601802069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e982d526dab2c0800000000000000
+      internalID: -4414981026748964571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd923c7424a49b0800000000000000
+      internalID: -5095187152431882255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92269b3b6a9cc41b0800000000000000
+      internalID: -5670936112949272023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becd6d51a7c7a2610800000000000000
+      internalID: 1597225881650519275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 46
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dfc85ee39f76a80800000000000000
+      internalID: -8473530125339788031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8af4928251f360800000000000000
+      internalID: 7201627999940807755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3acbf6761b76e1e0800000000000000
+      internalID: -2168910834116605377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66c92902647a2e0800000000000000
+      internalID: -2114644394314537308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0677e115932affc70800000000000000
+      internalID: 9007096146822068064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerstand-4_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29398833e2d60db00800000000000000
+      internalID: 851300374773535634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

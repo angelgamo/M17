@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemic
+  - Undefined
+  - Fill
+  - Troop
+  - Red
+  - Blue
+  - Seleccionador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Minimap
+  - Grid
+  - Collisions
+  - Select
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2560514837
+    locked: 0
+  - name: Collision
+    uniqueID: 761705211
+    locked: 0
+  - name: Foreground
+    uniqueID: 1317822663
+    locked: 0
+  - name: BuildPrev
+    uniqueID: 2168833961
+    locked: 0
+  - name: UI
+    uniqueID: 3722781457
+    locked: 0

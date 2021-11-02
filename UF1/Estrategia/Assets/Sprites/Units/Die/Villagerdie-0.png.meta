@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 6c9bf522f9168f142814d045b011b0ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7164386344673669382
+    second: Villagerdie-0_0
+  - first:
+      213: -785078752211483155
+    second: Villagerdie-0_1
+  - first:
+      213: 110245835928164417
+    second: Villagerdie-0_2
+  - first:
+      213: 6446956882768098190
+    second: Villagerdie-0_3
+  - first:
+      213: -6552776430031484718
+    second: Villagerdie-0_4
+  - first:
+      213: 2495792366034997733
+    second: Villagerdie-0_5
+  - first:
+      213: -2590956064157115842
+    second: Villagerdie-0_6
+  - first:
+      213: -4960788207685486062
+    second: Villagerdie-0_7
+  - first:
+      213: -6216487846926971652
+    second: Villagerdie-0_8
+  - first:
+      213: -6207957669371098121
+    second: Villagerdie-0_9
+  - first:
+      213: -8083614368534893431
+    second: Villagerdie-0_10
+  - first:
+      213: 5286276573028133085
+    second: Villagerdie-0_11
+  - first:
+      213: -8779068902088637633
+    second: Villagerdie-0_12
+  - first:
+      213: -6309171067332211467
+    second: Villagerdie-0_13
+  - first:
+      213: 5000933693224897330
+    second: Villagerdie-0_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Villagerdie-0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe011cf39cf29c90800000000000000
+      internalID: -7164386344673669382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 142
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54abdc807da15f0800000000000000
+      internalID: -785078752211483155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d670f00ca78100800000000000000
+      internalID: 110245835928164417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 142
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83f6af9021387950800000000000000
+      internalID: 6446956882768098190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 142
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8cb631e8cdf05a0800000000000000
+      internalID: -6552776430031484718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1d5a20fe5d2a220800000000000000
+      internalID: 2495792366034997733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a5547ef231b0cd0800000000000000
+      internalID: -2590956064157115842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 71
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab5f2986db72bb0800000000000000
+      internalID: -4960788207685486062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 71
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc82655d399ab9a0800000000000000
+      internalID: -6216487846926971652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb49701467e8d9a0800000000000000
+      internalID: -6207957669371098121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ceb368f8b31df80800000000000000
+      internalID: -8083614368534893431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8afc70980ac5940800000000000000
+      internalID: 5286276573028133085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330458d85b7a2680800000000000000
+      internalID: -8779068902088637633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fccd7877525178a0800000000000000
+      internalID: -6309171067332211467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Villagerdie-0_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 81
+        height: 71
+      alignment: 9
+      pivot: {x: 0.26, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bc3f9a2b2e66540800000000000000
+      internalID: 5000933693224897330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
