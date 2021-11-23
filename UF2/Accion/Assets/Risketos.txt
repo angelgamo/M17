@@ -1,0 +1,6 @@
+Adicional Riskets:
+-Manager: Hem fet un HealthManager... fins que bueno, potser no era lo millor, segueix estant igulament ()
+-Animator Frame by Frame: el Link esta animat FbF, de locos
+-SFX extra: varies particules (explosio de misil i vent)
+-Audio: tremendo temardo de musica thomas_the_train.mp3, tocant el pitch per saber quan el pots pegar i quan no
+-Ús d'effectors: al nivell de plataformeo hi ha effectors de vent i aigua, i plataformas amb physicsMaterials2d per rebotar
