@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ef683369f5e43d4eabf9f89c1095a3d, type: 3}
+  m_Name: Diamond Sword
+  m_EditorClassIdentifier: 
+  name: Diamond Sword
+  icon: {fileID: 2606742425184576966, guid: d877af673cfad5e488547fd4ec1ca522, type: 3}
+  description: 
+  equipSlot: 3
+  Strength:
+    Value: 5
+    Type: 100
+    Calc: 0
+    Order: 1
+  Agility:
+    Value: 0
+    Type: 0
+    Calc: 0
+    Order: -1
+  Intelligence:
+    Value: 0
+    Type: 0
+    Calc: 0
+    Order: -1
+  PhysicResist:
+    Value: 0
+    Type: 0
+    Calc: 0
+    Order: -1
+  MagicResist:
+    Value: 0
+    Type: 0
+    Calc: 0
+    Order: -1
+  MoveSpeed:
+    Value: 0
+    Type: 0
+    Calc: 0
+    Order: -1
+  AttackOffset: {x: 0, y: 0, z: 0}
+  AttackSpeed: 1
