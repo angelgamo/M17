@@ -1,0 +1,13 @@
+RRRRRiskkkettos:
+-ParticleEffects i Shaders avançats: una fogata al centre del mapa, 
+amb la fusta ardent i el fum que li surt. Dark Souls?
+També estan els efectes de hit amb sang, o hit a altres materials deixant la marca.
+-IA: els enemics patrullen amb una ruta que pots dibuixar amb el inspector, i et veuen segons un FOV 
+generat a partir de la distancia i l'angle amb el jugador. quan et segueixen tiren raycasts des de
+l'arma i et disparen. Igual que un jugador vaya.
+-Health i Weapon Manager: la vida es controla amb un script propi tant pel jugador com pels enemics. Si
+el jugador la palma es reinicia el joc, si es moren els enemics, spawnejen a una altre posicio com 
+si fossin un altre. Cada arma es un scriptable object amb les seves pròpies estadístiques, n'hi ha 9 tipus.
+-HUD: interficie que mostra les bales que et queden i la vida. Hi ha objectes que et curen pel mapa i et cures quan portes
+una estona sense rebre mal, poc a poc. La recarrega es automatica quan s'acaba la municio.
+-Hi ha granades pero no s'han implementat al jugador final, pero fetes estan

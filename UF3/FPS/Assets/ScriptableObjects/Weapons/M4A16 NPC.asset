@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc3c321b78486844a886fd3ff55e191, type: 3}
+  m_Name: M4A16 NPC
+  m_EditorClassIdentifier: 
+  damage: 4
+  shootVelocity: 1200
+  dispersion: 0.04
+  magazineCapacity: 32
+  shootDelay: 0.1
+  reloadDelay: 1
+  burst: 0
+  burstDelay: 0
+  burstQuantity: 0
+  preset: 7
+  bulletCoefficient: 0.47
+  diameter: 24
+  weight: 15.9
