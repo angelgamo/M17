@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b81a6184be655c048b1f29efe36523fd, type: 3}
+  m_Name: DungeonSettings
+  m_EditorClassIdentifier: 
+  placeables:
+  - prefab: {fileID: 2998466618967670365, guid: e43c14a9ff1061548b8ce308f6de812d, type: 3}
+    top: 0
+    bot: 1
+    rig: 0
+    lef: 0
+  - prefab: {fileID: 7043355484023649674, guid: 161659560ceaaff4a8c2f2599e69343c, type: 3}
+    top: 0
+    bot: 1
+    rig: 0
+    lef: 1
+  - prefab: {fileID: 1293910785537560611, guid: c8cdb6707227d4b48a8f81ff0d758904, type: 3}
+    top: 0
+    bot: 0
+    rig: 0
+    lef: 1
+  - prefab: {fileID: 3957220564696070451, guid: f91a582df7cd3ed47aa76c59607c47ba, type: 3}
+    top: 0
+    bot: 0
+    rig: 1
+    lef: 0
+  - prefab: {fileID: 5513442626949691061, guid: e69a50d8e6e487445a33831c3de374c2, type: 3}
+    top: 0
+    bot: 1
+    rig: 1
+    lef: 0
+  - prefab: {fileID: 5742995143695612900, guid: e9c2a1f213117054d8de01286ff59b61, type: 3}
+    top: 0
+    bot: 1
+    rig: 1
+    lef: 1
+  - prefab: {fileID: 2130288316955087956, guid: 76f75529c1134f24c8664d799a65e8af, type: 3}
+    top: 0
+    bot: 0
+    rig: 1
+    lef: 1
+  - prefab: {fileID: 7609567342047812655, guid: 14f4bddb2450c42418fb0a0951ad4eec, type: 3}
+    top: 1
+    bot: 0
+    rig: 0
+    lef: 0
+  - prefab: {fileID: 1408002835378114688, guid: dfc13763939db5c4998b94ed65f4dd11, type: 3}
+    top: 1
+    bot: 1
+    rig: 0
+    lef: 0
+  - prefab: {fileID: 4688585348481949850, guid: 91fed06a483ba9d479a35db3e4b5821b, type: 3}
+    top: 1
+    bot: 1
+    rig: 0
+    lef: 1
+  - prefab: {fileID: 7602460271614052167, guid: 1d17d29429276fd47818bc7ebd0ad705, type: 3}
+    top: 1
+    bot: 0
+    rig: 0
+    lef: 1
+  - prefab: {fileID: 2301832386204876683, guid: fd3161f059d47cf4383154471078d179, type: 3}
+    top: 1
+    bot: 0
+    rig: 1
+    lef: 0
+  - prefab: {fileID: 578931467702335813, guid: 9af917e53feaf1246adb8335daf68d73, type: 3}
+    top: 1
+    bot: 1
+    rig: 1
+    lef: 0
+  - prefab: {fileID: 3989975909531467282, guid: 9041256e0386a704bbd71ac1c976395b, type: 3}
+    top: 1
+    bot: 1
+    rig: 1
+    lef: 1
+  - prefab: {fileID: 3279490145842651878, guid: ecf67879f8ae0034d814da8b482b23a4, type: 3}
+    top: 1
+    bot: 0
+    rig: 1
+    lef: 1
+  ground: {fileID: 5073966875377933046, guid: f062104bb9f1ae2479a206e12e9d6dd6, type: 3}
+  stairs: {fileID: 144650210047653966, guid: ef3a0206c4f7d6b47a4feceae19b826d, type: 3}
+  plantaSize: 21
+  prefabSize: 9
+  startPrefabIndex: 13
+  manualSeed: 0
+  seed: 794033280
+  _customSeed: 812
+  gradientGroundColor: 1
+  spawnGround:
+    serializedVersion: 2
+    key0: {r: 1, g: 0, b: 0, a: 1}
+    key1: {r: 1, g: 0.97048855, b: 0, a: 1}
+    key2: {r: 0, g: 1, b: 0.18055558, a: 0}
+    key3: {r: 0, g: 0.5639739, b: 1, a: 0}
+    key4: {r: 0.3207547, g: 0.23225369, b: 0.20728016, a: 0}
+    key5: {r: 1, g: 1, b: 1, a: 0}
+    key6: {r: 0.5566038, g: 0.5566038, b: 0.5566038, a: 0}
+    key7: {r: 1, g: 1, b: 1, a: 0}
+    ctime0: 0
+    ctime1: 21627
+    ctime2: 43253
+    ctime3: 65535
+    ctime4: 31611
+    ctime5: 65535
+    ctime6: 48959
+    ctime7: 65535
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 4
+    m_NumAlphaKeys: 2
+  expansionType: 2
+  expansionCenterToBorder:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -3.641528
+      outSlope: -3.641528
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.026666667
+    - serializedVersion: 3
+      time: 1
+      value: 0.4000014
+      inSlope: -0.33702174
+      outSlope: -0.33702174
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.106666684
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  expansionIndex:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: -3.641528
+      outSlope: -3.641528
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.026666667
+    - serializedVersion: 3
+      time: 1
+      value: 0.4000014
+      inSlope: -0.33702174
+      outSlope: -0.33702174
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.106666684
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
